@@ -1,0 +1,24 @@
+.typo_1 {
+    font-size: 2rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin-top: 0;
+}
+.typo_2 {
+    font-size: 1rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin-top: 0;
+    color: floralwhite;
+}
+.selectTab {
+   
+    border: solid;
+    border-color: aliceblue;
+    border-radius: 50px;
+    height: 45%;
+}
